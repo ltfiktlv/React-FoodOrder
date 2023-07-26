@@ -1,0 +1,20 @@
+.new {
+  width: 55%;
+  margin: auto;
+}
+.separate {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  font: inherit;
+  cursor: pointer;
+  background-color: #0e0501;
+  border: 1px solid #0e0401;
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-left: 6px;
+}
